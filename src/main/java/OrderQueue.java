@@ -8,10 +8,6 @@ public class OrderQueue {
         queue.add(order);
     }
 
-    public Order firstOrder() {
-        return queue.peek();
-    }
-
     public Order showFirstOrder() {
         return queue.peek();
     }
