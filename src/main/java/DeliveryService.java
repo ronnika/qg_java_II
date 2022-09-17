@@ -7,7 +7,6 @@ public class DeliveryService {
     String name;
     OrderQueue orderQueue = new OrderQueue();
     DeliveryHistory deliveryHistory = new DeliveryHistory();
-
     Set<Client> clients = new HashSet<>();
 
     public DeliveryService(String name) {
