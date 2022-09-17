@@ -38,8 +38,4 @@ public class DeliveryService {
         deliveryHistory.addDelivery(orderQueue.processFirstOrder(), LocalDateTime.now());
         System.out.println("Delivery is complete");
     }
-
-
-
-
 }
