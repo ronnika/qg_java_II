@@ -7,18 +7,18 @@ public class Order {
     private Client client;
     private List<String> items = new ArrayList<>();
 
+    public Order(Client client) {
+        numberOfOrders += 1;
+        this.orderId = numberOfOrders;
+        this.client = client;
+    }
+
     public int getOrderId() {
         return orderId;
     }
 
     public Client getClient() {
         return client;
-    }
-
-    public Order(Client client) {
-        numberOfOrders += 1;
-        this.orderId = numberOfOrders;
-        this.client = client;
     }
 
     public void addItem(String item) {
