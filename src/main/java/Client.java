@@ -7,6 +7,11 @@ public class Client {
         this.address = address;
     }
 
+    @Override
+    public String toString() {
+        return "Client " + name + ", address: " + address;
+    }
+
     public String getName() {
         return name;
     }

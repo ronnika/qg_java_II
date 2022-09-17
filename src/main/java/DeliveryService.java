@@ -28,8 +28,7 @@ public class DeliveryService {
     public void listClients() {
         Iterator<Client> iterator = clients.iterator();
         while (iterator.hasNext()) {
-            Client client = iterator.next();
-            System.out.println(client.getName() + ", " + client.getAddress());
+            System.out.println(iterator.next());
         }
     }
 

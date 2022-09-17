@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b7df86f-e23a-4391-a2c4-f8b8654b264d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/OrderQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OrderQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeliveryService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,32 @@
       <option name="presentableId" value="Default" />
       <updated>1663263012726</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor">
+      <created>1663429515386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663429515386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor">
+      <created>1663429577946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663429577946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor">
+      <created>1663429616979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663429616979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
 </project>
